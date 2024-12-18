@@ -1,0 +1,12 @@
+{
+  "name": "test-library",
+  "version": "1.0.0",
+  "description": "Test project for json-engine-form",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "json-engine-form": "link:../json-engine-form"
+  }
+}
